@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi there, I'm Sujal Thapa  
+🎓 **Bachelor of Computer Science and Engineering**  
+📍 Graphic Era Hill University, Dehradun Campus  
 
-<!--
-**sujalthapa369/sujalthapa369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+I'm a passionate Computer Science student who thrives at the intersection of **Machine Learning**, **Deep Learning**, **Frontend Development**, and **IoT**.  
+I enjoy turning ideas into impactful solutions and exploring emerging tech with curiosity and creativity.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ My Top Skills  
+
+- 🧠 **Machine Learning & Deep Learning**  
+  Designing, training, and optimizing models for real-world applications.
+
+- 💻 **Frontend Development**  
+  Creating responsive, accessible, and visually appealing interfaces using modern tools and frameworks.
+
+- 📡 **IoT Enthusiast**  
+  Experimenting with embedded systems, automation, and sensor-driven devices.
+
+---
+
+## 🌟 Favorite Project  
+### 🔍 **Missile Detection using YOLO Model**  
+A cutting-edge computer vision project that leverages the YOLO (You Only Look Once) deep learning architecture to detect missiles in real time.
+
+🚀 *Goal:* To enhance defense systems using AI-powered object detection.  
+🧠 *Tech Stack:* Python, OpenCV, YOLOv5, ESP32-CAM  
+
+> 🔗 *Want a peek? Project coming soon on this GitHub!*
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sujalthapa369&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujalthapa369&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+## 🔗 Let's Connect
+
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-thapa-487163262/)
+- 📧 Email: *thapasujal369@gmail.com*
+
+---
+
+## 💡 Motto  
+> *"Dream big, stay curious, and turn every challenge into an opportunity to grow."*
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories or reach out—always up for a great project or collaboration. 🙌
