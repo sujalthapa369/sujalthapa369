@@ -15,11 +15,11 @@ I enjoy turning ideas into impactful solutions and exploring emerging tech with 
 - 🧠 **Machine Learning & Deep Learning**  
   Designing, training, and optimizing models for real-world applications.
 
-- 💻 **Frontend Development**  
-  Creating responsive, accessible, and visually appealing interfaces using modern tools and frameworks.
+- 💻 Learning Frontend Development
+  Exploring how to build responsive, accessible, and visually engaging user interfaces using modern tools and frameworks like HTML, CSS, JavaScript, and React.
 
-- 📡 **IoT Enthusiast**  
-  Experimenting with embedded systems, automation, and sensor-driven devices.
+- 📡 IoT Enthusiast in Progress
+  Currently diving into embedded systems, automation, and sensor-based devices to understand the fundamentals of IoT and hardware-software integration.
 
 ---
 
