@@ -16,7 +16,7 @@ I enjoy turning ideas into impactful solutions and exploring emerging tech with 
   Designing, training, and optimizing models for real-world applications.
 
 - 💻 Learning Frontend Development
-  Exploring how to build responsive, accessible, and visually engaging user interfaces using modern tools and frameworks like HTML, CSS, JavaScript, and React.
+  Exploring how to build responsive, accessible, and visually engaging user interfaces using modern tools and frameworks like JavaScript, and React.
 
 - 📡 IoT Enthusiast in Progress
   Currently diving into embedded systems, automation, and sensor-based devices to understand the fundamentals of IoT and hardware-software integration.
