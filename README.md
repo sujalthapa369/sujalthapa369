@@ -57,7 +57,6 @@ I enjoy turning ideas into impactful solutions and exploring emerging tech with 
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=sujalthapa369&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
 ![](https://nirzak-streak-stats.vercel.app/?user=sujalthapa369&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujalthapa369&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
