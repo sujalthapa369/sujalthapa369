@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Sujal Thapa
 
 🎓 **Bachelor of Computer Science and Engineering**  
-📍 Graphic Era Hill University, Dehradun Campus  
+📍 Graphic Era Hill University, Dehradun Campus
 
 ---
 
