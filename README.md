@@ -17,7 +17,7 @@ I enjoy turning ideas into impactful solutions and exploring emerging tech with 
   Designing, training, and optimizing models for real-world applications.
 
 - 💻 **Frontend Development**  
-  Building responsive, accessible, and visually engaging user interfaces using tools like JavaScript and React.
+  Building responsive, accessible, and visually engaging user interfaces using tools like React.
 
 - 📡 **IoT Enthusiast**  
   Exploring embedded systems, automation, and hardware-software integration.
