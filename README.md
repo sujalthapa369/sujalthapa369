@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Sujal%20Thapa&fontSize=48&fontColor=ffffff&stroke=58A6FF&strokeWidth=2&animation=fadeIn&desc=AI%20Researcher%20%7C%20Patent%20Innovator%20%7C%20Systems%20Engineer&descAlignY=65&descSize=20&color=0:0d1117,50:1f2937,100:58A6FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=220&text=Sujal%20Thapa&fontSize=52&fontColor=58A6FF&animation=fadeIn&color=0:0d1117,100:0d1117&desc=Inventing%20Systems%20That%20Think%20%7C%2015%2B%20Patents&descAlignY=75&descSize=20"/>
+<img width="100%" src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/assets/neural-network.svg"/>
+
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%94%AC+15%2B+Patents+Published+%7C+Research-Driven+Innovator;%F0%9F%A7%A0+ML+%2F+DL+%7C+%F0%9F%92%BB+Frontend+Dev+%7C+%F0%9F%93%A1+IoT+Explorer;%F0%9F%8E%93+B.Tech+CSE+%40+Graphic+Era+Hill+University" alt="Typing SVG" /></a>
@@ -202,6 +204,6 @@ I'm always open to:
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=120&section=footer&color=0:58A6FF,50:1f2937,100:0d1117"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&section=footer&height=120&color=0:0d1117,100:0d1117"/>
 
 </div>
