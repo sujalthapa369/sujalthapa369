@@ -1,8 +1,13 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=220&text=Sujal%20Thapa&fontSize=52&fontColor=58A6FF&animation=fadeIn&color=0:0d1117,100:0d1117&desc=Inventing%20Systems%20That%20Think%20%7C%2015%2B%20Patents&descAlignY=75&descSize=20"/>
-<img width="100%" src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/assets/neural-network.svg"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=210&text=Sujal%20Thapa&fontSize=50&fontColor=ffffff&animation=fadeIn&color=0:1e3a8a,50:2563eb,100:60a5fa&desc=AI%20Research%20%7C%20Patent%20Engineering%20%7C%20Deep%20Systems&descAlignY=70&descSize=19"/>
+<p align="center">
+<img src="https://img.shields.io/badge/Status-Researching-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Patents-15%2B-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Intelligent%20Systems-58A6FF?style=for-the-badge"/>
+</p>
+
 
 
 <!-- Typing SVG -->
@@ -204,6 +209,6 @@ I'm always open to:
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&section=footer&height=120&color=0:0d1117,100:0d1117"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&section=footer&height=110&color=0:60a5fa,50:2563eb,100:1e3a8a"/>
 
 </div>
