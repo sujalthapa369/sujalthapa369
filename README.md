@@ -111,30 +111,23 @@ With **15+ patents published** and a relentless passion for pushing boundaries, 
 
 ## 📈 GitHub Analytics
 
+## 📊 Technical Metrics
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sujalthapa369&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=sujalthapa369&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=sujalthapa369&theme=github-dark&hide_border=true" />
+<img height="165em" src="https://streak-stats.demolab.com?user=sujalthapa369&theme=github-dark&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF"/>
 
-<br/>
+</div>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalthapa369&layout=compact&theme=github_dark&hide_border=true" />
+<div align="center">
+
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalthapa369&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF"/>
 
 </div>
 
 
----
-
-## 🏆 Trophy Cabinet
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=sujalthapa369&theme=algolia&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7)
-
-</div>
-
----
 
 ## 📡 Contribution Graph
 
@@ -146,9 +139,13 @@ With **15+ patents published** and a relentless passion for pushing boundaries, 
 
 ---
 
-## 🐍 Contribution Snake
+## 🧬 Contribution Activity
 
 <div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujalthapa369&theme=github-dark&hide_border=true&area=true" width="100%"/>
+
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
@@ -159,35 +156,25 @@ With **15+ patents published** and a relentless passion for pushing boundaries, 
        src="https://raw.githubusercontent.com/sujalthapa369/animation/output/github-snake.svg" />
 </picture>
 
-
 </div>
+
 
 
 ---
 
 ## 💡 Research & Innovation Philosophy
 
+
 <div align="center">
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   "I don't just solve problems — I patent solutions."   │
-│                                                         │
-│     📜 15+ Patents   →   Real-World Innovation          │
-│     🔬 Research      →   Data-Backed Decisions          │
-│     🛠️ Engineering   →   Scalable Systems               │
-│     🤝 Collaboration →   Multiplied Impact              │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+
+> “I don’t just solve problems — I patent scalable systems.”
+
+📜 15+ Patents  
+🧠 Deep Learning & Intelligent Systems  
+⚙️ Research-First Engineering  
+🌍 Real-World Impact  
 
 </div>
-
-My research interests span across:
-- 🧠 **Intelligent Systems** — Deep learning architectures for vision, NLP, and beyond
-- 🏥 **AI for Social Good** — Healthcare, agriculture, and accessibility applications
-- 📡 **Smart IoT Ecosystems** — Edge intelligence and real-time sensor fusion
-- 🔐 **Novel System Design** — Patented frameworks bridging hardware and AI
-
----
 
 ## ✍️ Dev Wisdom
 
@@ -214,6 +201,12 @@ I'm always open to:
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&section=footer&height=110&color=0:60a5fa,50:2563eb,100:1e3a8a"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&section=footer&color=0:0d1117,100:1f2937"/>
+
+<div align="center">
+
+AI Research · Patented Systems · Scalable Innovation  
+
+</div>
 
 </div>
