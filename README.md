@@ -149,10 +149,6 @@ With **15+ patents published** and a relentless passion for pushing boundaries, 
 
 </div>
 
-> 💡 *Set up the [snk action](https://github.com/Platane/snk) in your profile repo to activate the snake animation!*
-
----
-
 ## 💡 Research & Innovation Philosophy
 
 <div align="center">
