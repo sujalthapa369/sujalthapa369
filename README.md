@@ -149,14 +149,17 @@ With **15+ patents published** and a relentless passion for pushing boundaries, 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sujalthapa369/sujalthapa369/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sujalthapa369/sujalthapa369/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sujalthapa369/sujalthapa369/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/sujalthapa369/animation/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/sujalthapa369/animation/output/github-snake.svg" />
+  <img alt="github-snake" 
+       src="https://raw.githubusercontent.com/sujalthapa369/animation/output/github-snake.svg" />
 </picture>
+
 
 </div>
 
-> 💡 *Set up the [snk action](https://github.com/Platane/snk) in your profile repo to activate the snake animation!*
 
 ---
 
