@@ -58,13 +58,6 @@ With **15+ patents published** and a relentless passion for pushing boundaries, 
 
 </div>
 
----
-
-## 🧠 Core Competencies
-
-<div align="center">
-
-</div>
 
 ---
 
@@ -118,17 +111,21 @@ With **15+ patents published** and a relentless passion for pushing boundaries, 
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=sujalthapa369&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF"/>
+<img height="165em"
+src="https://github-readme-stats.vercel.app/api?username=sujalthapa369&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF"/>
 
-<img height="165em" src="https://streak-stats.demolab.com?user=sujalthapa369&theme=github-dark&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF"/>
+<img height="165em"
+src="https://streak-stats.demolab.com?user=sujalthapa369&theme=github-dark&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF"/>
 
 </div>
 
 <div align="center">
 
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalthapa369&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF"/>
+<img height="140em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalthapa369&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF"/>
 
 </div>
+
 
 
 
