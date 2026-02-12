@@ -1,12 +1,16 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=210&text=Sujal%20Thapa&fontSize=50&fontColor=ffffff&animation=fadeIn&color=0:1e3a8a,50:2563eb,100:60a5fa&desc=AI%20Research%20%7C%20Patent%20Engineering%20%7C%20Deep%20Systems&descAlignY=70&descSize=19"/>
-<p align="center">
-<img src="https://img.shields.io/badge/Status-Researching-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Patents-15%2B-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-Intelligent%20Systems-58A6FF?style=for-the-badge"/>
-</p>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Sujal%20Thapa&fontSize=54&fontColor=58A6FF&animation=fadeIn&color=0:0d1117,50:111827,100:1f2937&desc=AI%20Researcher%20%7C%20Patent%20Engineer%20%7C%20Intelligent%20Systems&descAlignY=72&descSize=20"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Engineering+Intelligence;Designing+Scalable+AI+Systems;15%2B+Patents+%7C+Research-Driven+Innovation" />
+
+</div>
+
 
 
 
@@ -109,7 +113,6 @@ With **15+ patents published** and a relentless passion for pushing boundaries, 
 
 ---
 
-## 📈 GitHub Analytics
 
 ## 📊 Technical Metrics
 
@@ -128,16 +131,6 @@ With **15+ patents published** and a relentless passion for pushing boundaries, 
 </div>
 
 
-
-## 📡 Contribution Graph
-
-<div align="center">
-
-[![Sujal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sujalthapa369&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=58A6FF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
 
 ## 🧬 Contribution Activity
 
