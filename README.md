@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sujal%20Thapa&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Researcher%20%7C%20Inventor%20%7C%20Engineer&descSize=18&descAlignY=52"/>
+<!-- Animated Header - Cylinder style with fire gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=⚡%20Sujal%20Thapa%20⚡&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=45&desc=🔬%20Researcher%20%7C%20🧠%20Inventor%20%7C%20⚙️%20Engineer&descSize=20&descAlignY=70"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%94%AC+15%2B+Patents+Published+%7C+Research-Driven+Innovator;%F0%9F%A7%A0+ML+%2F+DL+%7C+%F0%9F%92%BB+Frontend+Dev+%7C+%F0%9F%93%A1+IoT+Explorer;%F0%9F%8E%93+B.Tech+CSE+%40+Graphic+Era+Hill+University" alt="Typing SVG" /></a>
@@ -127,11 +127,16 @@ With **15+ patents published** and a relentless passion for pushing boundaries, 
 
 ---
 
-## 📡 Contribution Graph
+## 📡 Contribution Heatmap
 
 <div align="center">
 
-[![Sujal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sujalthapa369&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=58A6FF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://ghchart.rshah.org/58A6FF/sujalthapa369" alt="Sujal's Contribution Heatmap" width="95%"/>
+
+<br/><br/>
+
+<!-- 3D Contribution Calendar -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sujalthapa369&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&layout=compact" width="50%" />
 
 </div>
 
@@ -149,9 +154,21 @@ With **15+ patents published** and a relentless passion for pushing boundaries, 
 
 </div>
 
+---
+
 ## 💡 Research & Innovation Philosophy
 
 <div align="center">
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   "I don't just solve problems — I patent solutions."   │
+│                                                         │
+│     📜 15+ Patents   →   Real-World Innovation          │
+│     🔬 Research      →   Data-Backed Decisions          │
+│     🛠️ Engineering   →   Scalable Systems               │
+│     🤝 Collaboration →   Multiplied Impact              │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 
 </div>
 
@@ -188,6 +205,7 @@ I'm always open to:
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<!-- Animated Footer - Shark style with cool gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
 
 </div>
